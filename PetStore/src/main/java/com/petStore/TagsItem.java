@@ -1,4 +1,4 @@
-package petStore;
+package com.petStore;
 
 public class TagsItem{
 	private String name;

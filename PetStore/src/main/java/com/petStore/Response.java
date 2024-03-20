@@ -1,4 +1,4 @@
-package petStore;
+package com.petStore;
 
 import java.util.List;
 
